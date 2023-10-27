@@ -1,4 +1,4 @@
-# DIY Projects - How you end up spending more money!
+# DIY Projects - How you end up spending more money.
 
 Welcome to my repository, a peek into my journey as a broke college student. This is the one line that sums up this repository: **Why buy it when you can DIY it?** 
 
