@@ -13,7 +13,7 @@ My DIY projects end up costing more than buying a pre-built, perfected product. 
 ## Projects List 
 These are the lists of my DIY projects. To be constantly updated.
 
-- **[PiHub](#https://github.com/dajeprk/piHub/tree/main)**: Linux Application (So far) to manage the 10+ Raspberry Pis on my network.
+- **[PiHub](https://github.com/dajeprk/piHub/tree/main)**: Linux Application (So far) to manage the 10+ Raspberry Pis on my network.
 - **TBC**
 
 ## Reflections So Far
